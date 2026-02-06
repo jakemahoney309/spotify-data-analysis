@@ -12,16 +12,16 @@ The dataset used in this analysis was sourced from kaggle and contains data for 
 
 ## Key Findings
 - Pop has the most popular artists by a wide margin, followed by country and hip hop
-- the most popular songs tend to keep track time close to 3.6 minute mark.
-- songs released as part of an album have the highest rates of becoming popular
+- The most popular songs tend to keep track time close to 3.6 minute mark.
+- Songs released as part of an album have the highest rates of becoming popular
 - Songs released in May have the highest chance of being popular
 - The most popular artists have maintained an average song popularity of around 60 for several year
 
 ## Tools and Librarys
 - Python
 - Matplotlib
-- pandas
-- numpy
+- Pandas
+- Numpy
 
 ## How to Run
 - Clone Repository
